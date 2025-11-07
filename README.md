@@ -1,6 +1,5 @@
 ![2966678129_preview_spin cat spin-min](https://github.com/user-attachments/assets/fe2066cd-ecb8-459b-b022-97331d8a703e)
 <h1 align="center">Привет, я Смердов Антон</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonysesh&label=Profile%20views&color=0e75b6&style=flat" alt="tonysesh" /> </p>
 
